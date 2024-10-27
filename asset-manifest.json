@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//mohaGalal.github.io/filteration/static/css/main.a8c5f3f6.css",
+    "main.js": "/https//mohaGalal.github.io/filteration/static/js/main.acd007b2.js",
+    "static/js/453.f6405d7a.chunk.js": "/https//mohaGalal.github.io/filteration/static/js/453.f6405d7a.chunk.js",
+    "static/media/img2.png": "/https//mohaGalal.github.io/filteration/static/media/img2.7d14f71f9d07279051e8.png",
+    "static/media/img1.jpg": "/https//mohaGalal.github.io/filteration/static/media/img1.b9e00657025cf977fe8d.jpg",
+    "static/media/img7.jfif": "/https//mohaGalal.github.io/filteration/static/media/img7.79cccee9c7d6dc2aa336.jfif",
+    "static/media/img4.jfif": "/https//mohaGalal.github.io/filteration/static/media/img4.9d1203edbdc7758bf93f.jfif",
+    "static/media/img3.jfif": "/https//mohaGalal.github.io/filteration/static/media/img3.590c9ef44fe74075036c.jfif",
+    "static/media/img5.jfif": "/https//mohaGalal.github.io/filteration/static/media/img5.b92327a9e7ded5320d6d.jfif",
+    "static/media/img6.jfif": "/https//mohaGalal.github.io/filteration/static/media/img6.fb71c27a465142eb3e1a.jfif",
+    "index.html": "/https//mohaGalal.github.io/filteration/index.html",
+    "main.a8c5f3f6.css.map": "/https//mohaGalal.github.io/filteration/static/css/main.a8c5f3f6.css.map",
+    "main.acd007b2.js.map": "/https//mohaGalal.github.io/filteration/static/js/main.acd007b2.js.map",
+    "453.f6405d7a.chunk.js.map": "/https//mohaGalal.github.io/filteration/static/js/453.f6405d7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8c5f3f6.css",
+    "static/js/main.acd007b2.js"
+  ]
+}
